@@ -1,0 +1,2 @@
+C:/Users/sridh/OneDrive/Documents/Proj/android/shop_app/android/app/.cxx/Debug/y1n5a6o5/x86/CMakeFiles/edit_cache.dir
+C:/Users/sridh/OneDrive/Documents/Proj/android/shop_app/android/app/.cxx/Debug/y1n5a6o5/x86/CMakeFiles/rebuild_cache.dir
